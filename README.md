@@ -1,3 +1,11 @@
+# CREDITS
+
+HabUtils.dll is distributed under the MIT License, originally by Nertea for the mod Stockalike Station Parts Redux 
+
+All other content by Lonelykermit 
+
+---
+
 # Kolony Constructs
 New parts/statics for KSP for bases and colonies
 
